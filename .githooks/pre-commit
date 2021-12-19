@@ -1,9 +1,0 @@
-#! /bin/sh
-poetry export -f requirements.txt --output requirements.txt
-git add requirements.txt
-
-jupyter nbconvert --to script csv_to_json.ipynb
-python /Users/eskild/Dev/ski_data/csv_to_json.py
-
-git add csv_to_json.py
-git add routes.json
