@@ -1,7 +1,7 @@
 [
   {
     "id": 100000,
-    "route_name": "123TESTAustefjorden p\u00e5 langs",
+    "route_name": "TESTAustefjorden p\u00e5 langs",
     "geoJSON": {
       "type": "Feature",
       "properties": {},
@@ -38,6 +38,28 @@
           [6.668808, 62.116269],
           [6.668358, 62.116412],
           [6.668261, 62.116454]
+        ]
+      }
+    }
+  },
+  {
+    "id": 100001,
+    "route_name": "TESTHj\u00f8rundfjorden rundt",
+    "geoJSON": {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-353.908081, 62.123152],
+          [-353.833237, 62.098742],
+          [-353.833237, 62.098742],
+          [-353.794785, 62.088458],
+          [-353.794785, 62.088458],
+          [-353.751526, 62.079778],
+          [-353.751526, 62.079778],
+          [-353.702087, 62.077849],
+          [-353.702087, 62.077849]
         ]
       }
     }
